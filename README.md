@@ -11,11 +11,17 @@ Website link: https://coinspot-react-mansoorkhanlodi.netlify.app/
 - Uses map and filter functions to extract the desired data from the search results.
 - Retrieves and displays the following information from the API:
   -> Crypto Coin Name
+  
   -> Coin Logo
+  
   -> Symbol
+  
   -> Price
+  
   -> Volume
+  
   -> Price Change (%)
+  
   -> Market Cap
   
 # Styling
